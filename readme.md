@@ -8,10 +8,10 @@
 
 ```
 # npm
-npm i vue-cli-plugin-electron-builder-notarize --save-dev
+npm i @oshell/vue-cli-plugin-electron-builder-notarize --save-dev
 
 # yarn
-yarn add vue-cli-plugin-electron-builder-notarize --dev
+yarn add @oshell/vue-cli-plugin-electron-builder-notarize --dev
 ```
 
 
