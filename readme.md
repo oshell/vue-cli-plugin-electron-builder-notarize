@@ -21,10 +21,10 @@ In your electron-builder config:
 
 ```json
 {
-	"afterSign": "electron-builder-notarize",
+	"afterSign": "@oshell/vue-cli-plugin-electron-builder-notarize",
 	"mac": {
 		"hardenedRuntime": true,
-		"entitlements": "./node_modules/electron-builder-notarize/entitlements.mac.inherit.plist",
+		"entitlements": "./node_modules/@oshell/vue-cli-plugin-electron-builder-notarize/entitlements.mac.inherit.plist",
 	}
 }
 ```

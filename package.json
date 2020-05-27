@@ -1,6 +1,6 @@
 {
 	"name": "@oshell/vue-cli-plugin-electron-builder-notarize",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Notarize Electron applications using vue-cli-plugin-electron-builder",
 	"license": "MIT",
 	"repository": "https://github.com/oshell/vue-cli-plugin-electron-builder-notarize",
